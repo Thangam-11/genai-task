@@ -1,0 +1,11 @@
+nltk
+transformers
+huggingface-hub
+langchain
+langchain-community
+langchain-groq
+langchain-openai
+ipykernel
+python-dotenv
+torch
+requests
